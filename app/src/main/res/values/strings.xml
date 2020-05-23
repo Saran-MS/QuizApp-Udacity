@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="ques1">1.Which one is the first search engine in internet ?</string>
+    <string name="ques2">2.Which one is the first web browser invented in 1990 ?</string>
+    <string name="ques3">3.Which of the following programming language is used to create programs like applets ?</string>
+    <string name="ques4">4.Which one programming language is exclusively used for artificial intelligence ?</string>
+    <string name="ques5">5.Which of the following is not an operating system ?</string>
+    <string name="ques6">6.Identify this person :</string>
+    <string name="ques7">7.Identify the correct answers :</string>
+
+    <string name="option1forques1">Google</string>
+    <string name="answerforques1">Archie</string>
+    <string name="option3forques1">Altavista</string>
+    <string name="option4forques1">WAIS</string>
+
+    <string name="option1forques2"> Internet Explorer</string>
+    <string name="option2forques2">Mosaic</string>
+    <string name="option3forques2">Mozilla</string>
+    <string name="answerforques2">Nexus</string>
+
+    <string name="option1forques3">COBOL</string>
+    <string name="option2forques3"> C Language</string>
+    <string name="answerforques3">Java</string>
+    <string name="option4forques3">BASIC</string>
+
+    <string name="option1forques4">C</string>
+    <string name="option2forques4">J2EE</string>
+    <string name="option3forques4">Java</string>
+    <string name="answerforques4">Prolog</string>
+
+    <string name="option1forques5">DOS</string>
+    <string name="option2forques5">Mac</string>
+    <string name="answerforques5">C</string>
+    <string name="option4forques5">Linux</string>
+
+    <string name="answer6">Mark zuckerberg</string>
+
+    <string name="option1forques7">Gingerbread - 3.0 - 3.2.6</string>
+    <string name="ans1forques7">Oreo - 8.0</string>
+    <string name="ans2forques7">Marshmallow - 6.0 - 6.0.1</string>
+    <string name="option4forques7">Jelly Bean - 4.1 - 4.3.1</string>
+
+
+
+
+</resources>
